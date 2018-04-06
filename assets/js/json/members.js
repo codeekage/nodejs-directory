@@ -11,7 +11,9 @@ var dataJSON = {
             "github": "mylesborins",
             "twitter": "MylesBorins",
             "email": "mylesborins@google.com",
-        "bio": "Borins hereLorem ipsum dolor sit amet,  Borins hereLorem ipsum dolor sit amet Borins hereLorem ipsum dolor sit  Borins hereLorem ipsum dolor sit amet, Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei consectetur adipisicing elit, sed do eiamet, consectetur adipisicing elit, sed do ei, consectetur adipisicing elit, sed do eiBorins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiconsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute"
+        "bio": "Borins hereLorem ipsum dolor sit amet,  Borins hereLorem ipsum dolor sit amet Borins hereLorem ipsum dolor sit  Borins hereLorem ipsum dolor sit amet, Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei consectetur adipisicing elit, sed do eiamet, consectetur adipisicing elit, sed do ei, consectetur adipisicing elit, sed do eiBorins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiconsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute",
+            "twitter": "",
+            "email": "mylesborins@google.com"
         },
 
         {
@@ -25,9 +27,10 @@ var dataJSON = {
             "contient": "North America",
             "github": "ZibbyKeaton",
             "twitter": "ZibbyKeaton",
-            "email": "zkeaton@linuxfoundation.com",
-            "bio": "Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute"
 
+            "email": "zkeaton@linuxfoundation.com",
+            "bio": "Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute",
+            "email": "zkeaton@linuxfoundation.com"
         },
 
         {
@@ -41,8 +44,12 @@ var dataJSON = {
             "contient": "North America",
             "github": "hackygolucky",
             "twitter": "hackygolucky",
+
             "email": "tracyhinds@gmail.com",
-            "bio": "Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute"
+            "bio": "Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute",
+
+
+            "email": "tracyhinds@gmail.com"
 
         },
 
@@ -58,8 +65,8 @@ var dataJSON = {
             "github": "rachelnicole",
             "twitter": "rachelnicole",
             "email": "loveless@gmail.com",
-            "bio": "Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute"
-
+            "bio": "Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute",
+            "email": "loveless@gmail.com"
         },
         {
             "name": "Tierney Cyren",
@@ -73,8 +80,8 @@ var dataJSON = {
             "github": "bnb",
             "twitter": "bnb",
             "email": "hello@bnb.im",
-            "bio": "Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor Borins hereLorem ipsum dolor sit amet, Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei consectetur adipisicing elit, sed do eiincididunt  ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute"
-
+            "bio": "Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor Borins hereLorem ipsum dolor sit amet, Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei consectetur adipisicing elit, sed do eiincididunt  ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute",
+            "email": "hello@bnb.im"
         },
 
         {
@@ -102,9 +109,10 @@ var dataJSON = {
             "contient": "North America",
             "github": "Trott",
             "twitter": "Trott",
-            "email": "rtrott@gmail.com",
-            "bio": "Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute"
 
+            "email": "rtrott@gmail.com",
+            "bio": "Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute",
+            "email": "rtrott@gmail.com"
         },
 
         {
@@ -119,8 +127,8 @@ var dataJSON = {
             "github": "chowdhurian",
             "twitter": "chowdhurian",
             "email": "",
-            "bio": "Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute"
-
+            "bio": "Borins hereLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute",
+            "email": ""
         },
 
     ]
