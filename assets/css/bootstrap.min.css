@@ -7,8 +7,8 @@
 
 @media print {
     *,
-    ::after,
-    ::before {
+     ::after,
+     ::before {
         text-shadow: none!important;
         box-shadow: none!important
     }
@@ -3914,9 +3914,9 @@ tbody.collapse.show {
 }
 
 .card-footer {
-    padding: .75rem 1.25rem;
+    padding: -0.25rem 0.25rem;
     background-color: rgba(0, 0, 0, .03);
-    border-top: 1px solid rgba(0, 0, 0, .125)
+    border-top: 1px solid rgba(0, 0, 0, .125);
 }
 
 .card-footer:last-child {

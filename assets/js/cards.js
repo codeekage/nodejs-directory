@@ -1,14 +1,16 @@
-function createCard(name, location, img, skillSet, position, country_abv, country, contient, github, twitter, email) {
-    document.getElementById("members").innerHTML += `
-     <div class="col-md-3">
+function createCard(index, name, location, img, skillSet, position, country_abv, country, contient, github, twitter, email) {
+    document.getElementById("all-members").innerHTML += `
+    
+     <li class="col-md-3">
      <div class="card ag-card-height">
         <div class="card-body team-player" style="padding:0!important;">
             <img src="${img}" alt="Thumbnail Image" class="rounded-circle img-fluid " style="padding:10px">
-            <h4 class="title ag-margin">${name}</h4>
+            <h4 class="title ag-margin"><a href="profile.html?members=${index}" target="_blank">${name}</a></h4>
             ${position}
              <p class="">${contient}, ${country_abv}
                  <img src="assets/img/flags/${country_abv}.png">
             </p>
+            <span id="country-name">${country}</span>
         </div>
         <div class="card-footer bg-secondary">
         <h6 class="">${skillSet}</h6>
@@ -23,5 +25,6 @@ function createCard(name, location, img, skillSet, position, country_abv, countr
             </a>
         </div>
     </div>
-    </div>`;
+    </div>
+    `;
 }
